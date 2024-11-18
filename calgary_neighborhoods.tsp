@@ -1,0 +1,25 @@
+NAME: CALGARY_NEIGHBORHOODS
+TYPE: TSP
+COMMENT: Calgary neighborhood centers for TSP routing
+DIMENSION: 8
+EDGE_WEIGHT_TYPE: EUC_2D
+NODE_COORD_SECTION
+1 51.0486 -114.0708
+2 51.0540 -114.0953
+3 51.0341 -114.0783
+4 51.0486 -114.1247
+5 51.0197 -114.0047
+6 51.0831 -114.1310
+7 51.0375 -114.1419
+8 51.0647 -114.0890
+EOF
+DISPLAY_DATA_SECTION
+1 "Downtown Core"
+2 "Kensington"
+3 "Beltline"
+4 "Bowness"
+5 "Inglewood"
+6 "University Heights"
+7 "Signal Hill"
+8 "Bridgeland"
+EOF

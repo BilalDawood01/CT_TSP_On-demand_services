@@ -10,6 +10,7 @@ The tools available so far:
   - Can i use this to find a model to map these services to calgary transit
   - Best way would be to find bus hubs and the types of structures around it euclidean, rectilinear etc
   - Distance Matrix Creation: `numpy` or `geopandas`
+    - `geopandas` relies on `shapely` and `pyogrio`
 - Data Processing and Analysis: `numpy` `pandas` `SciPy` `geopandas`
 - Optimization and Simulation modelling: `PuLP` `Google OR-Tools` `SimPy`
 - Spacial Data and Visualization: `QGIS`, `MATPLOTLIB`, `Seaborn`
