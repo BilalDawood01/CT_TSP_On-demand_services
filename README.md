@@ -21,3 +21,22 @@ The tools available so far:
 ## Current Progress
 Utilized geocoders library and created a map of calgary utilizing manually written data.
 Transit specific functions have failed...
+
+### Feedbackk
+- Trim the scope: pick a few transit hubs around the city (NP, Tuscany, crowfoot, anything with park and ride) between 3 and 5 hubs. 
+  - Plot on that graph. Test a dozen differnt cases (30 instances within a different number)
+  - Graph on X axis N and distance to complete journey on Y axis for a radius (cap 4 to 16)
+    - Want a sublinear plot that should be related to the root of the equation that allows us to estimate the K value
+    - K value should be different for different stations
+    - Hypothesize the different K values based on different parameters (road network, )
+    - Gives good estimation value to the city
+    - Instead of doing a coordinate system, use a polar system. Random degree from the terminal. You can constrain the random part of the radial portion. 
+    - Currently closer to current TSP setup
+    - Could mention a theoretical donut implementation.
+- ARC MAP way to deal with random mapping problems. Confirm the name of the map function
+- weight it to be less uniformally random
+- Conduct and justify your work using a literature review
+- Doing analysis first
+- 200
+https://www.sciencedirect.com/science/article/pii/S0191261508000969
+https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=vPW-ZhkAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=vPW-ZhkAAAAJ:d1gkVwhDpl0C
