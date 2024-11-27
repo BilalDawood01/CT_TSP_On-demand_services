@@ -40,3 +40,37 @@ Transit specific functions have failed...
 - 200
 https://www.sciencedirect.com/science/article/pii/S0191261508000969
 https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=vPW-ZhkAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=vPW-ZhkAAAAJ:d1gkVwhDpl0C
+
+## Park and Ride Termninals I am going to Focus on
+- Priority: 
+  - Outskirt of city
+  - Parking > 850
+  - Accessibility > X
+  - Train Access Yes/No?
+
+
+
+Tuscany Station - Rocky Ridge Terminal [NW deep]
+Douglas Glen Terminal [deep SE]
+BR Barlow Stn Bus Terminal [SE]
+North Pointe Terminal A
+McKnight-Westwinds CTrain Park and Ride
+Canyon Meadows Park & Ride
+Sirocco Park and Ride
+
+SOUTH 
+Fish Creek - Lacombe CTrain Station [lat, long] = [50.9233027, -114.0758714]
+Somerset-Bridlewood [50.8986570, -114.0699560]
+
+NORTH:
+Crowfoot - North and South [51.1226635, -114.2070422]
+Tuscany Station - Rocky Ridge Terminal [51.1350249, -114.2348192]
+
+
+EAST - WEST
+Saddletowne CTrain Park and Ride [51.1254114, -113.9487872]
+Sirocco Station [51.0381335, -114.1695420]
+marlborough mall [51.0552984, -113.9786681]
+
+BUSSES:
+North Pointe [51.1570621, -114.0680757]
