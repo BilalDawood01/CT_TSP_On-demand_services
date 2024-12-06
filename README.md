@@ -41,6 +41,9 @@ Transit specific functions have failed...
 https://www.sciencedirect.com/science/article/pii/S0191261508000969
 https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=vPW-ZhkAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=vPW-ZhkAAAAJ:d1gkVwhDpl0C
 
+Donut Implementation:
+https://jordinl.com/posts/2019-02-15-how-to-generate-random-geocoordinates-within-given-radius
+
 ## Park and Ride Termninals I am going to Focus on
 - Priority: 
   - Outskirt of city
